@@ -5,3 +5,5 @@ This repository will contain all working files for the OWASP Project's Task Forc
 
 
 The main OWASP TaskForce page is at: https://www.owasp.org/index.php/Task_Force/OWASP_Projects
+
+Mailing List Page: https://groups.google.com/forum/#!forum/owasp-projects-task-force
